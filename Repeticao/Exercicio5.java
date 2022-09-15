@@ -9,11 +9,11 @@ public class Exercicio5 {
 		int soma=0, n;
 		do
 		{
-			System.out.println("Digite um número: ");
+			System.out.println("Digite um nï¿½mero: ");
 			n=ler.nextInt();
-			soma+=n;
+			soma+=n;//soma=soma+n
 		}while(n!=0);
-		System.out.println("A soma total é: "+soma);
+		System.out.println("A soma total ï¿½: "+soma);
 	}
 
 }

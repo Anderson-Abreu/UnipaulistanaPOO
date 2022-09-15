@@ -2,7 +2,7 @@ package Repeticao;
 
 import java.util.Scanner;
 
-public class Exercício3 {
+public class ExercÃ­cio3 {
 
 	public static void main(String[] args) {
 		Scanner ler = new Scanner(System.in);
@@ -18,8 +18,8 @@ public class Exercício3 {
 			System.out.print("Digite sua idade ou -99 para enserrar o programa: ");
 			p=ler.nextInt();
 		}
-		System.out.println("O total de pessoas com menos de 21 anos é: "+mv);
-		System.out.println("O total de pessoas com mais de 50 anos é : "+mc);
+		System.out.println("O total de pessoas com menos de 21 anos ï¿½: "+mv);
+		System.out.println("O total de pessoas com mais de 50 anos ï¿½ : "+mc);
 	}
 
 }

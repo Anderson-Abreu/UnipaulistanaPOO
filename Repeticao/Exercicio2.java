@@ -9,15 +9,15 @@ public class Exercicio2 {
 		int n1,cp=0,ci=0;
 		for (int x=1;x<=10;x++)
 		{	
-			System.out.print("Digite um número: ");
+			System.out.print("Digite um nÃºmero: ");
 			n1=ler.nextInt();
 			if(n1%2==0)
 				cp++;
 			else
 				ci++;
 		}
-		System.out.println("O total de números pares é: "+ cp);
-		System.out.println("O total de números impares é: "+ci);
+		System.out.println("O total de nï¿½meros pares : "+ cp);
+		System.out.println("O total de nï¿½meros impares: "+ci);
 	}
 
 }

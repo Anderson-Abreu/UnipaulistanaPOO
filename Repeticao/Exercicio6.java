@@ -18,7 +18,7 @@ public class Exercicio6 {
 				cont++;
 			}
 		}while(n!=0);
-		System.out.println("A média dos numeros multiplos de 3 é: "+(soma/cont));
+		System.out.println("A mÃ©dia dos numeros multiplos de 3 Ã©: "+(soma/cont));
 
 	}
 
